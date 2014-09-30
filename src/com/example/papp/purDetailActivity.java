@@ -18,7 +18,7 @@ import android.view.MenuItem;
 public class purDetailActivity extends FragmentActivity {
 
     @Override
-    protected void onCreatee(Bundle savedInstanceState) {
+    protected void onCreate (Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pur_detail);
 
